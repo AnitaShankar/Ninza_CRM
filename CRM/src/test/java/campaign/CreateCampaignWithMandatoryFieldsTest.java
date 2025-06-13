@@ -91,6 +91,7 @@ public class CreateCampaignWithMandatoryFieldsTest {
 
 		// Logout
 		hp.logout();
+		System.out.println("Hello");
 
 	}
 
